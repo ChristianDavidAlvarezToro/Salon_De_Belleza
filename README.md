@@ -328,7 +328,7 @@ Este proyecto se desarrolla con fines académicos y demostrativos. Puedes adapta
 ## 👥 Autor
 
 **Christian Alvarez-Jhonatan Hernandez-Jhon Melo**
-- GitHub: [@Juanvidal01](https://github.com/Juanvidal01)
+- GitHub: [@ChristianDavidAlvarezToro](https://github.com/ChristianDavidAlvarezToro)
 
 
 ---
