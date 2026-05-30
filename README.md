@@ -319,10 +319,6 @@ Las contribuciones son bienvenidas. Para contribuir:
 4. Push a la rama (`git push origin feature/AmazingFeature`)
 5. Abre un Pull Request
 
-## 📄 Licencia
-
-Este proyecto se desarrolla con fines académicos y demostrativos. Puedes adaptarlo y extenderlo según tus necesidades. Si lo utilizas como base para otro proyecto, se agradece la referencia al [repositorio original](https://github.com/Juanvidal01/Salon-De-Belleza).
-
 ---
 
 ## 👥 Autor
