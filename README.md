@@ -82,8 +82,8 @@ Aplicación web integral desarrollada con **Laravel** para la gestión completa 
 ### 1. Clonar el Repositorio
 
 ```bash
-git clone https://github.com/Juanvidal01/Salon-De-Belleza.git
-cd Salon-De-Belleza
+git clone https://github.com/ChristianDavidAlvarezToro/Salon_De_Belleza
+cd Salon_De_Belleza
 ```
 
 ### 2. Instalar Dependencias PHP
